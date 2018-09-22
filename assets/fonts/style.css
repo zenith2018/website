@@ -1,10 +1,10 @@
 @font-face {
-   font-family: 'StripedKing';
-   src: url('StripedKing/font.ttf');
+   font-family: 'font';
+   src: url('font/font.ttf');
 }
 @font-face {
-   font-family: 'Haarlem Deco DEMO';
-   src: url('Haarlem Deco DEMO/font.ttf');
+   font-family: 'BEBAS';
+   src: url('BEBAS/font.ttf');
 }
 @font-face {
    font-family: 'GeosansLight';
