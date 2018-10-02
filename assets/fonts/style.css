@@ -3,10 +3,6 @@
    src: url('font/font.ttf');
 }
 @font-face {
-   font-family: 'BEBAS';
-   src: url('BEBAS/font.ttf');
-}
-@font-face {
    font-family: 'GeosansLight';
    src: url('GeosansLight/font.ttf');
 }

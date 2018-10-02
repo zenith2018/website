@@ -1,0 +1,36 @@
+@font-face {
+   font-family: 'Playfair Display';
+   font-style: normal;
+   font-weight: 700;
+   src: url('file:///C:/Users/Rutu/Desktop/Zenith%20Website%20final/website//fonts/Playfair Display/700.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Playfair Display';
+   font-style: normal;
+   font-weight: 900;
+   src: url('file:///C:/Users/Rutu/Desktop/Zenith%20Website%20final/website//fonts/Playfair Display/900.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Playfair Display';
+   font-style: regular;
+   font-weight: 400;
+   src: url('file:///C:/Users/Rutu/Desktop/Zenith%20Website%20final/website//fonts/Playfair Display/regular.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Playfair Display';
+   font-style: italic;
+   font-weight: 400;
+   src: url('file:///C:/Users/Rutu/Desktop/Zenith%20Website%20final/website//fonts/Playfair Display/italic.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Playfair Display';
+   font-style: italic;
+   font-weight: 700;
+   src: url('file:///C:/Users/Rutu/Desktop/Zenith%20Website%20final/website//fonts/Playfair Display/700italic.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Playfair Display';
+   font-style: italic;
+   font-weight: 900;
+   src: url('file:///C:/Users/Rutu/Desktop/Zenith%20Website%20final/website//fonts/Playfair Display/900italic.ttf') format('truetype');
+}
